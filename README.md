@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @BrandonT99
-- 👀 I’m interested in
--   Beans and Bagels
-- 🌱 I’m currently learning ...
--   Java
--   Python
--   C++
--   The Best Toaster Setting
-- 📫 How to reach me ...
--   Dont :)
+To be honest, I don't know what to put here...
+So, you come here often?
 
 <!---
 BrandonT99/BrandonT99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
